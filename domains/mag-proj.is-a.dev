@@ -1,0 +1,11 @@
+{
+  "description": "Kişisel portföy sitem",
+  "repo": "https://github.com/CloudOfHonour/CloudOfHonour.github.io",
+  "owner": {
+    "username": "CloudOfHonour",
+    "email": "devodesco@gmail.com"
+  },
+  "record": {
+    "CNAME": "CloudOfHonour.github.io"
+  }
+}
