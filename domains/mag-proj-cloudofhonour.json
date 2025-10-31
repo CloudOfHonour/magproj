@@ -1,0 +1,11 @@
+{
+  "description": "Mag Proje - Mimarlık ve Kentsel Dönüşüm Web Sitesi",
+  "repo": "https://github.com/CloudOfHonour/mag-proje",
+  "owner": {
+    "username": "CloudOfHonour",
+    "email": "devodesco@gmail.com"
+  },
+  "record": {
+    "CNAME": "CloudOfHonour.github.io"
+  }
+}
